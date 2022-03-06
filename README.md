@@ -1,0 +1,2 @@
+# onefri.github.io
+blog
